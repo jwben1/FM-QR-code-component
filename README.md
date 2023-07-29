@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Acknowledgments](#acknowledgments)
 
 ### Screenshot
-
+![image](https://github.com/jwben1/FM-QR-code-component/assets/132217074/4aff6c59-35da-4eea-bce4-76c48b1475d1)
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/qr-code-card-with-html-and-css-e5RNzNrO26
