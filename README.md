@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ### Screenshot
 
@@ -29,12 +29,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I reviewed:
-How to use well HTML Semantic elements (<main>)
-Various ways of centering including CSS Flex and Grid but I chose to go with flex.
-And the use of "max-width" for responsiveness
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+- How to use well HTML Semantic elements like main 
+- Various ways of centering including CSS Flex and Grid but I chose to go with flex.
+- The use of "max-width" for responsiveness.
+    
 ```css
 .proud-of-this-css {
   padding-inline: 1rem;
