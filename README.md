@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-card-with-html-and-css-e5RNzNrO26
 - Live Site URL: https://jwben1.github.io/FM-QR-code-component/
 
 ### Built with
@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I reviewed:
-How to use well HTML Semantic elements(<main>)
+How to use well HTML Semantic elements (<main>)
 Various ways of centering including CSS Flex and Grid but I chose to go with flex.
 And the use of "max-width" for responsiveness
 
